@@ -1,5 +1,8 @@
 # Clinical Entity Linking System for Greek hospital discharge documents with ICD 10 codes
 
+This project focuses on implementing an entity-linking system tailored for Greek medical documents. The system features a hierarchical classifier designed to handle entity-linking tasks within pre-extracted mentions, capitalizing on the inherent hierarchical structure of the ICD-10 coding system. Complementing the classifier is a bi-encoder, which introduces a candidate generation step. 
+The system is additionally evaluated under the scenario of known document-level labels. 
+
 ## Contents:
 
 1. Class files 
