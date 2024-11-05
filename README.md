@@ -5,11 +5,6 @@ The system is additionally evaluated under the scenario of known document-level 
 
 The project is part of my **Master's Thesis**, which explains the theory, methodology, and detailed implementation of the entity linking system.
 
-## Master's Thesis
-
-The full master's thesis can be found in the [docs](docs) folder of this repository:
-
-
 ## Overview
 
 The system utilizes the hierarchical structure of ICD-10 codes for entity linking and builds a two-step process:
